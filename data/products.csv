@@ -1,0 +1,13 @@
+product_id,product_name,category,cost_price,selling_price
+P001,Smart Watch,Electronics,1800,2499
+P002,Wireless Earbuds,Electronics,700,1299
+P003,Power Bank,Electronics,600,999
+P004,Laptop Stand,Accessories,900,1599
+P005,Mechanical Keyboard,Accessories,2200,3499
+P006,Office Chair,Furniture,6500,8999
+P007,Desk Lamp,Furniture,800,1399
+P008,Backpack,Lifestyle,1200,1999
+P009,Fitness Band,Electronics,1100,1799
+P010,Bluetooth Speaker,Electronics,1500,2299
+P011,Water Bottle,Lifestyle,400,799
+P012,Phone Holder,Accessories,300,599

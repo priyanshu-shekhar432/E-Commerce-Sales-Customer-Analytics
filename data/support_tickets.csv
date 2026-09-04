@@ -1,0 +1,901 @@
+ticket_id,customer_id,ticket_date,issue_type,priority,resolution_hours,status
+T00001,C0105,2025-12-07,Damaged Product,High,13.1,Resolved
+T00002,C0369,2025-02-28,Payment Failure,Medium,30.6,Resolved
+T00003,C0460,2026-06-22,Product Query,Medium,13.9,Resolved
+T00004,C0247,2026-04-23,Wrong Product,Medium,22.6,Resolved
+T00005,C0264,2025-04-13,Refund,Medium,12.6,Resolved
+T00006,C0206,2026-06-17,Wrong Product,Medium,17.3,Resolved
+T00007,C0018,2025-11-18,Damaged Product,High,6.7,Open
+T00008,C0364,2026-07-03,Product Query,Medium,29.3,Resolved
+T00009,C0251,2025-01-14,Wrong Product,High,23.5,Resolved
+T00010,C0238,2026-04-01,Refund,Medium,4.9,Resolved
+T00011,C0340,2025-08-09,Product Query,High,14.0,Open
+T00012,C0407,2026-01-26,Refund,Low,33.2,Resolved
+T00013,C0453,2025-06-22,Product Query,Low,8.3,Resolved
+T00014,C0321,2025-03-22,Payment Failure,Medium,8.6,Open
+T00015,C0365,2025-12-02,Damaged Product,Low,15.2,Resolved
+T00016,C0302,2025-08-13,Payment Failure,Low,10.7,Resolved
+T00017,C0066,2025-02-04,Late Delivery,Low,48.8,Resolved
+T00018,C0336,2025-07-07,Refund,Medium,10.7,Open
+T00019,C0453,2025-08-12,Payment Failure,High,11.9,Resolved
+T00020,C0150,2026-05-09,Refund,Medium,1.4,Resolved
+T00021,C0193,2025-11-07,Product Query,High,14.8,Resolved
+T00022,C0396,2026-06-05,Refund,Medium,30.3,Resolved
+T00023,C0147,2026-08-04,Late Delivery,Low,28.6,Escalated
+T00024,C0406,2026-06-24,Refund,Low,29.5,Resolved
+T00025,C0183,2026-01-04,Product Query,Medium,27.1,Resolved
+T00026,C0106,2026-04-20,Product Query,Low,54.7,Escalated
+T00027,C0236,2025-01-31,Payment Failure,Low,22.2,Resolved
+T00028,C0126,2025-08-20,Damaged Product,Medium,11.7,Resolved
+T00029,C0446,2026-05-12,Wrong Product,Medium,12.4,Resolved
+T00030,C0179,2026-07-20,Payment Failure,Medium,14.3,Resolved
+T00031,C0432,2025-06-24,Late Delivery,High,9.8,Resolved
+T00032,C0401,2025-10-25,Wrong Product,Medium,23.7,Resolved
+T00033,C0013,2025-12-31,Refund,Medium,31.6,Resolved
+T00034,C0231,2025-03-27,Payment Failure,High,13.0,Resolved
+T00035,C0028,2026-07-31,Wrong Product,Low,38.0,Resolved
+T00036,C0379,2025-03-30,Payment Failure,Medium,6.6,Resolved
+T00037,C0323,2025-02-23,Refund,High,2.8,Resolved
+T00038,C0261,2025-12-27,Product Query,Medium,12.6,Resolved
+T00039,C0100,2026-04-21,Payment Failure,Medium,3.2,Resolved
+T00040,C0188,2025-08-17,Late Delivery,Medium,9.0,Escalated
+T00041,C0399,2026-06-18,Wrong Product,Medium,20.3,Open
+T00042,C0337,2026-01-08,Wrong Product,Low,4.4,Resolved
+T00043,C0300,2026-04-14,Wrong Product,High,19.1,Escalated
+T00044,C0119,2026-02-24,Payment Failure,High,10.9,Escalated
+T00045,C0046,2026-06-16,Refund,High,26.9,Resolved
+T00046,C0413,2026-02-04,Payment Failure,Medium,5.2,Resolved
+T00047,C0068,2025-07-03,Payment Failure,Low,10.9,Escalated
+T00048,C0384,2026-07-16,Product Query,Low,9.6,Resolved
+T00049,C0480,2025-03-31,Wrong Product,High,20.4,Resolved
+T00050,C0305,2026-01-18,Refund,Medium,11.8,Resolved
+T00051,C0171,2026-01-04,Damaged Product,Low,26.5,Resolved
+T00052,C0358,2025-03-15,Refund,Medium,20.8,Resolved
+T00053,C0196,2025-09-26,Payment Failure,Medium,17.4,Resolved
+T00054,C0333,2025-01-15,Late Delivery,Medium,14.6,Resolved
+T00055,C0020,2025-11-25,Refund,Medium,50.9,Resolved
+T00056,C0111,2026-01-27,Wrong Product,Medium,19.0,Open
+T00057,C0146,2026-03-10,Late Delivery,High,23.1,Resolved
+T00058,C0192,2025-12-10,Damaged Product,Low,22.8,Resolved
+T00059,C0433,2025-07-14,Damaged Product,Low,11.9,Resolved
+T00060,C0371,2025-02-05,Late Delivery,Medium,2.8,Resolved
+T00061,C0426,2025-07-24,Damaged Product,High,48.3,Escalated
+T00062,C0229,2025-02-26,Late Delivery,Medium,13.2,Resolved
+T00063,C0012,2025-04-20,Payment Failure,Medium,22.3,Resolved
+T00064,C0217,2026-05-11,Late Delivery,Medium,50.1,Resolved
+T00065,C0478,2025-08-13,Payment Failure,Medium,12.2,Resolved
+T00066,C0079,2026-01-21,Wrong Product,High,15.3,Resolved
+T00067,C0375,2025-03-05,Wrong Product,High,39.5,Resolved
+T00068,C0036,2025-12-18,Damaged Product,Medium,11.3,Resolved
+T00069,C0264,2026-04-08,Product Query,Medium,7.1,Resolved
+T00070,C0028,2025-11-16,Product Query,Low,4.2,Open
+T00071,C0372,2025-12-23,Late Delivery,Medium,80.1,Resolved
+T00072,C0086,2025-04-03,Payment Failure,Medium,46.4,Resolved
+T00073,C0188,2025-10-27,Wrong Product,Medium,1.6,Resolved
+T00074,C0305,2026-05-09,Wrong Product,Low,29.6,Open
+T00075,C0254,2026-01-24,Wrong Product,High,49.0,Resolved
+T00076,C0422,2026-03-10,Damaged Product,Medium,17.4,Escalated
+T00077,C0080,2025-04-12,Wrong Product,Medium,13.6,Resolved
+T00078,C0186,2026-01-13,Product Query,Low,14.3,Resolved
+T00079,C0005,2026-08-06,Refund,Medium,44.4,Resolved
+T00080,C0046,2025-12-04,Damaged Product,High,9.2,Resolved
+T00081,C0354,2026-05-07,Late Delivery,Medium,9.4,Resolved
+T00082,C0497,2025-03-01,Refund,Medium,9.3,Resolved
+T00083,C0102,2026-05-24,Damaged Product,Low,1.0,Resolved
+T00084,C0459,2026-01-27,Damaged Product,Medium,14.0,Open
+T00085,C0002,2025-04-29,Payment Failure,High,40.5,Resolved
+T00086,C0217,2026-04-16,Refund,Medium,24.9,Resolved
+T00087,C0025,2025-11-24,Refund,High,27.3,Resolved
+T00088,C0257,2025-01-21,Product Query,High,22.6,Resolved
+T00089,C0223,2025-04-07,Refund,High,15.6,Resolved
+T00090,C0453,2026-05-28,Wrong Product,High,16.2,Resolved
+T00091,C0424,2025-12-16,Product Query,Low,23.1,Resolved
+T00092,C0324,2025-05-12,Wrong Product,High,12.5,Resolved
+T00093,C0499,2026-06-30,Product Query,Low,8.7,Resolved
+T00094,C0069,2025-02-01,Late Delivery,Low,13.4,Resolved
+T00095,C0197,2025-09-16,Product Query,Low,6.1,Resolved
+T00096,C0272,2026-04-21,Late Delivery,Low,9.8,Resolved
+T00097,C0182,2025-02-02,Product Query,Medium,35.9,Open
+T00098,C0447,2026-01-23,Late Delivery,Medium,15.4,Resolved
+T00099,C0018,2026-07-15,Wrong Product,Low,22.5,Escalated
+T00100,C0107,2026-04-01,Product Query,Medium,25.0,Resolved
+T00101,C0017,2025-05-24,Payment Failure,Medium,18.6,Resolved
+T00102,C0125,2025-08-12,Product Query,Medium,32.3,Resolved
+T00103,C0483,2025-08-05,Late Delivery,Low,11.2,Resolved
+T00104,C0082,2025-06-05,Damaged Product,Low,23.2,Resolved
+T00105,C0004,2026-06-04,Wrong Product,Low,7.8,Open
+T00106,C0115,2025-02-05,Payment Failure,Low,1.6,Resolved
+T00107,C0351,2025-01-09,Damaged Product,Medium,10.7,Resolved
+T00108,C0351,2025-02-09,Damaged Product,Medium,16.2,Open
+T00109,C0137,2026-04-14,Wrong Product,Low,8.3,Resolved
+T00110,C0287,2025-06-28,Product Query,Medium,48.2,Open
+T00111,C0389,2026-05-16,Refund,Medium,16.7,Open
+T00112,C0228,2026-01-08,Payment Failure,High,28.0,Resolved
+T00113,C0016,2025-03-09,Product Query,Low,41.7,Resolved
+T00114,C0298,2026-02-28,Wrong Product,High,18.8,Resolved
+T00115,C0425,2026-05-30,Refund,Medium,11.2,Resolved
+T00116,C0464,2025-12-30,Wrong Product,Low,7.1,Resolved
+T00117,C0212,2026-03-27,Wrong Product,High,4.3,Resolved
+T00118,C0246,2026-05-31,Damaged Product,Medium,29.7,Resolved
+T00119,C0286,2025-11-25,Product Query,Medium,32.0,Open
+T00120,C0282,2026-01-05,Wrong Product,Medium,42.8,Resolved
+T00121,C0177,2026-01-22,Product Query,Medium,38.0,Resolved
+T00122,C0031,2026-07-01,Refund,Low,51.7,Resolved
+T00123,C0050,2025-04-24,Damaged Product,Low,32.2,Resolved
+T00124,C0143,2026-07-25,Refund,High,21.1,Resolved
+T00125,C0052,2025-02-07,Refund,High,12.9,Resolved
+T00126,C0233,2026-06-29,Damaged Product,Low,17.1,Resolved
+T00127,C0166,2026-01-12,Product Query,Medium,18.6,Resolved
+T00128,C0038,2026-02-03,Refund,Medium,47.0,Open
+T00129,C0491,2025-07-22,Late Delivery,Low,38.8,Resolved
+T00130,C0444,2025-07-21,Product Query,Medium,9.5,Resolved
+T00131,C0020,2025-04-10,Wrong Product,Medium,23.3,Escalated
+T00132,C0099,2026-02-02,Damaged Product,Medium,28.4,Open
+T00133,C0215,2026-03-26,Damaged Product,High,26.4,Resolved
+T00134,C0044,2025-04-28,Product Query,Low,13.9,Resolved
+T00135,C0111,2026-02-25,Late Delivery,Medium,17.9,Resolved
+T00136,C0487,2025-08-31,Late Delivery,Medium,34.7,Resolved
+T00137,C0089,2026-06-25,Late Delivery,Medium,14.5,Resolved
+T00138,C0319,2025-08-15,Late Delivery,Low,8.2,Resolved
+T00139,C0118,2026-05-16,Payment Failure,Medium,28.0,Resolved
+T00140,C0434,2025-08-01,Damaged Product,High,17.0,Resolved
+T00141,C0406,2025-04-23,Refund,Low,37.3,Resolved
+T00142,C0239,2026-01-08,Damaged Product,Medium,19.1,Resolved
+T00143,C0072,2025-10-26,Damaged Product,High,0.8,Resolved
+T00144,C0310,2025-01-19,Damaged Product,Low,22.4,Resolved
+T00145,C0393,2025-01-11,Late Delivery,High,24.2,Escalated
+T00146,C0399,2025-01-08,Late Delivery,Low,38.7,Resolved
+T00147,C0304,2025-06-02,Payment Failure,Low,10.2,Resolved
+T00148,C0404,2026-07-04,Product Query,Low,12.8,Resolved
+T00149,C0163,2025-05-15,Damaged Product,Low,10.4,Resolved
+T00150,C0251,2026-01-08,Wrong Product,Low,36.9,Resolved
+T00151,C0357,2026-04-06,Product Query,Medium,7.3,Resolved
+T00152,C0195,2025-08-23,Payment Failure,Low,28.7,Resolved
+T00153,C0060,2025-09-12,Late Delivery,High,9.7,Resolved
+T00154,C0098,2026-08-09,Damaged Product,Medium,18.1,Open
+T00155,C0418,2025-11-24,Late Delivery,Medium,4.6,Resolved
+T00156,C0356,2025-12-28,Product Query,Medium,27.4,Resolved
+T00157,C0355,2026-01-09,Refund,Medium,16.3,Resolved
+T00158,C0073,2025-07-28,Late Delivery,Medium,30.7,Resolved
+T00159,C0222,2025-09-24,Late Delivery,Low,27.0,Resolved
+T00160,C0119,2026-07-08,Payment Failure,High,13.3,Resolved
+T00161,C0182,2026-05-21,Refund,Medium,10.0,Resolved
+T00162,C0384,2026-07-18,Product Query,Low,19.2,Resolved
+T00163,C0218,2026-02-25,Wrong Product,Medium,12.0,Resolved
+T00164,C0256,2025-11-04,Wrong Product,Medium,56.9,Resolved
+T00165,C0396,2025-05-17,Wrong Product,Low,18.7,Resolved
+T00166,C0088,2026-02-23,Damaged Product,High,40.4,Resolved
+T00167,C0361,2025-07-14,Wrong Product,Medium,22.7,Open
+T00168,C0275,2025-04-05,Damaged Product,Medium,16.1,Resolved
+T00169,C0492,2026-05-05,Product Query,Medium,9.5,Resolved
+T00170,C0336,2025-09-15,Product Query,High,24.0,Resolved
+T00171,C0026,2025-01-25,Late Delivery,Low,8.2,Resolved
+T00172,C0407,2025-08-20,Wrong Product,Medium,20.6,Resolved
+T00173,C0121,2025-11-28,Payment Failure,Low,24.5,Resolved
+T00174,C0289,2025-08-09,Product Query,Medium,15.6,Resolved
+T00175,C0362,2025-10-24,Refund,Low,30.7,Resolved
+T00176,C0441,2025-07-22,Refund,Low,12.4,Escalated
+T00177,C0030,2025-12-09,Product Query,High,33.6,Resolved
+T00178,C0407,2025-07-24,Late Delivery,Medium,40.1,Resolved
+T00179,C0202,2025-03-18,Refund,Low,23.5,Resolved
+T00180,C0382,2026-07-04,Refund,Medium,30.3,Resolved
+T00181,C0036,2025-02-11,Late Delivery,Medium,26.6,Resolved
+T00182,C0125,2026-03-31,Late Delivery,Low,23.4,Resolved
+T00183,C0223,2025-07-01,Late Delivery,Low,23.4,Resolved
+T00184,C0235,2025-07-14,Payment Failure,High,7.3,Resolved
+T00185,C0124,2026-08-13,Late Delivery,Medium,35.6,Resolved
+T00186,C0470,2026-01-23,Late Delivery,Medium,17.8,Resolved
+T00187,C0171,2025-05-21,Late Delivery,High,19.3,Resolved
+T00188,C0491,2025-01-27,Product Query,Medium,17.1,Resolved
+T00189,C0486,2025-11-11,Wrong Product,Low,9.8,Resolved
+T00190,C0495,2025-11-17,Product Query,Low,15.7,Resolved
+T00191,C0450,2026-03-24,Wrong Product,Medium,41.7,Resolved
+T00192,C0181,2025-10-20,Payment Failure,High,10.6,Resolved
+T00193,C0215,2025-08-24,Payment Failure,Low,1.6,Resolved
+T00194,C0118,2026-04-02,Refund,Low,4.2,Resolved
+T00195,C0227,2025-03-08,Product Query,High,14.0,Resolved
+T00196,C0379,2025-06-25,Wrong Product,Low,3.6,Escalated
+T00197,C0444,2026-05-25,Payment Failure,Medium,10.2,Resolved
+T00198,C0037,2025-04-01,Payment Failure,Low,37.5,Resolved
+T00199,C0317,2025-06-15,Product Query,Medium,49.0,Resolved
+T00200,C0096,2026-03-14,Refund,Medium,4.9,Resolved
+T00201,C0120,2025-02-20,Late Delivery,Low,16.8,Resolved
+T00202,C0491,2025-09-23,Damaged Product,Medium,14.8,Resolved
+T00203,C0437,2026-06-05,Refund,Medium,31.5,Resolved
+T00204,C0012,2025-03-28,Damaged Product,Medium,11.6,Resolved
+T00205,C0122,2025-02-21,Refund,Medium,31.1,Resolved
+T00206,C0035,2025-06-28,Refund,Medium,49.3,Open
+T00207,C0489,2025-10-05,Late Delivery,Medium,72.0,Resolved
+T00208,C0251,2025-08-27,Payment Failure,Medium,3.1,Resolved
+T00209,C0067,2026-08-08,Wrong Product,Medium,21.7,Resolved
+T00210,C0482,2025-12-05,Refund,Medium,19.6,Open
+T00211,C0038,2025-03-13,Late Delivery,Medium,37.4,Resolved
+T00212,C0280,2026-01-09,Damaged Product,Low,42.2,Resolved
+T00213,C0230,2026-08-03,Product Query,Low,18.6,Resolved
+T00214,C0337,2026-06-01,Product Query,Low,52.8,Open
+T00215,C0168,2025-08-26,Payment Failure,High,16.7,Resolved
+T00216,C0449,2026-04-11,Product Query,Medium,9.2,Resolved
+T00217,C0441,2025-05-01,Refund,Medium,31.3,Resolved
+T00218,C0328,2026-02-17,Damaged Product,Low,6.9,Resolved
+T00219,C0246,2026-07-24,Refund,Low,30.1,Resolved
+T00220,C0079,2025-02-12,Product Query,High,31.0,Resolved
+T00221,C0114,2026-05-19,Wrong Product,High,37.4,Resolved
+T00222,C0301,2025-07-16,Product Query,Low,16.8,Resolved
+T00223,C0217,2025-03-13,Wrong Product,Medium,35.1,Resolved
+T00224,C0200,2025-04-01,Product Query,Medium,2.5,Resolved
+T00225,C0381,2026-07-03,Payment Failure,Low,25.9,Resolved
+T00226,C0500,2026-05-06,Damaged Product,Medium,21.3,Resolved
+T00227,C0352,2026-01-18,Wrong Product,Medium,40.8,Resolved
+T00228,C0242,2026-04-11,Late Delivery,Medium,71.6,Resolved
+T00229,C0013,2025-06-03,Payment Failure,Low,57.2,Escalated
+T00230,C0366,2025-06-19,Refund,Low,5.0,Open
+T00231,C0207,2025-09-29,Product Query,Low,19.7,Resolved
+T00232,C0262,2025-04-20,Damaged Product,Low,12.2,Resolved
+T00233,C0097,2025-05-31,Damaged Product,Medium,8.4,Resolved
+T00234,C0071,2026-03-07,Product Query,Low,25.5,Resolved
+T00235,C0481,2026-03-27,Late Delivery,Medium,10.7,Resolved
+T00236,C0303,2025-01-23,Wrong Product,Medium,22.4,Resolved
+T00237,C0349,2026-01-02,Product Query,Medium,15.2,Resolved
+T00238,C0230,2025-08-27,Damaged Product,Medium,25.9,Resolved
+T00239,C0357,2026-03-10,Late Delivery,Medium,12.0,Resolved
+T00240,C0300,2025-05-07,Late Delivery,Low,36.5,Resolved
+T00241,C0032,2026-06-25,Refund,Low,16.1,Open
+T00242,C0250,2025-07-17,Late Delivery,Low,10.5,Resolved
+T00243,C0254,2026-04-27,Payment Failure,Low,18.2,Resolved
+T00244,C0259,2025-06-28,Damaged Product,Low,28.0,Resolved
+T00245,C0182,2026-06-07,Payment Failure,Low,11.7,Resolved
+T00246,C0340,2026-03-13,Late Delivery,Medium,19.1,Open
+T00247,C0462,2025-11-10,Late Delivery,High,17.4,Resolved
+T00248,C0476,2025-01-19,Payment Failure,Low,8.3,Resolved
+T00249,C0166,2025-06-09,Refund,High,35.4,Resolved
+T00250,C0004,2025-05-02,Late Delivery,Low,41.7,Resolved
+T00251,C0463,2025-03-13,Payment Failure,Medium,28.0,Resolved
+T00252,C0145,2025-02-24,Payment Failure,Medium,47.1,Resolved
+T00253,C0165,2026-04-05,Damaged Product,High,14.2,Resolved
+T00254,C0344,2025-06-18,Refund,Low,15.1,Open
+T00255,C0486,2026-08-05,Wrong Product,Low,27.4,Resolved
+T00256,C0362,2025-05-29,Payment Failure,Low,10.7,Resolved
+T00257,C0105,2025-01-26,Damaged Product,Medium,3.8,Open
+T00258,C0036,2025-09-05,Wrong Product,High,40.5,Resolved
+T00259,C0314,2025-08-15,Damaged Product,Medium,11.5,Resolved
+T00260,C0169,2026-04-29,Damaged Product,Medium,39.6,Resolved
+T00261,C0008,2025-01-10,Product Query,Medium,30.4,Resolved
+T00262,C0451,2025-04-05,Refund,High,27.3,Open
+T00263,C0414,2025-05-01,Late Delivery,Medium,33.9,Resolved
+T00264,C0086,2025-05-06,Refund,Low,13.7,Resolved
+T00265,C0436,2026-07-03,Wrong Product,High,39.8,Resolved
+T00266,C0097,2025-03-10,Product Query,Low,53.0,Resolved
+T00267,C0409,2025-10-24,Refund,Low,39.3,Resolved
+T00268,C0436,2026-05-16,Late Delivery,Low,8.6,Open
+T00269,C0315,2025-02-14,Refund,Medium,23.5,Escalated
+T00270,C0030,2026-01-17,Refund,Medium,6.8,Resolved
+T00271,C0101,2025-01-27,Refund,Low,30.8,Resolved
+T00272,C0067,2026-05-12,Payment Failure,Medium,15.3,Resolved
+T00273,C0388,2025-05-16,Payment Failure,Medium,3.8,Resolved
+T00274,C0349,2025-02-18,Refund,High,14.1,Resolved
+T00275,C0441,2026-05-22,Late Delivery,Medium,20.1,Resolved
+T00276,C0063,2025-05-01,Late Delivery,Medium,11.2,Resolved
+T00277,C0032,2025-08-05,Late Delivery,Medium,40.2,Open
+T00278,C0087,2026-06-10,Late Delivery,Low,12.4,Resolved
+T00279,C0211,2026-07-28,Product Query,Low,10.8,Resolved
+T00280,C0463,2025-02-12,Product Query,Medium,3.4,Resolved
+T00281,C0051,2025-04-06,Damaged Product,Low,34.5,Open
+T00282,C0063,2025-01-27,Refund,Low,21.6,Resolved
+T00283,C0080,2025-08-30,Refund,Medium,37.5,Resolved
+T00284,C0343,2026-05-02,Damaged Product,Low,22.4,Resolved
+T00285,C0232,2025-08-28,Late Delivery,Low,46.4,Resolved
+T00286,C0366,2025-10-31,Wrong Product,Medium,29.6,Resolved
+T00287,C0101,2025-03-08,Wrong Product,Medium,27.3,Resolved
+T00288,C0129,2025-10-08,Damaged Product,High,19.7,Resolved
+T00289,C0019,2025-07-11,Wrong Product,Medium,2.9,Resolved
+T00290,C0357,2025-04-29,Payment Failure,Medium,11.8,Resolved
+T00291,C0419,2025-06-01,Refund,Medium,9.9,Resolved
+T00292,C0447,2026-01-27,Wrong Product,Low,19.4,Open
+T00293,C0094,2025-08-19,Product Query,Low,13.9,Resolved
+T00294,C0081,2025-12-17,Product Query,Medium,36.7,Resolved
+T00295,C0103,2026-07-25,Payment Failure,Medium,33.9,Resolved
+T00296,C0369,2026-06-13,Refund,Medium,16.2,Resolved
+T00297,C0154,2025-06-20,Payment Failure,Medium,21.6,Resolved
+T00298,C0269,2025-05-12,Refund,Low,11.3,Resolved
+T00299,C0118,2025-12-23,Refund,Medium,29.7,Open
+T00300,C0342,2025-02-11,Wrong Product,Medium,27.5,Resolved
+T00301,C0494,2025-11-01,Product Query,Medium,55.4,Resolved
+T00302,C0279,2025-01-06,Damaged Product,Medium,18.8,Open
+T00303,C0492,2025-11-25,Wrong Product,High,44.5,Resolved
+T00304,C0363,2025-06-19,Late Delivery,High,7.6,Resolved
+T00305,C0225,2025-12-04,Payment Failure,High,21.4,Open
+T00306,C0475,2025-03-10,Late Delivery,Low,15.9,Open
+T00307,C0419,2026-06-23,Refund,Low,22.6,Resolved
+T00308,C0268,2026-05-22,Wrong Product,Low,25.0,Resolved
+T00309,C0137,2026-05-01,Late Delivery,Low,5.7,Resolved
+T00310,C0226,2026-03-19,Late Delivery,Medium,36.7,Open
+T00311,C0334,2025-02-20,Product Query,Medium,36.7,Resolved
+T00312,C0229,2025-05-29,Late Delivery,Medium,17.4,Resolved
+T00313,C0323,2026-08-10,Product Query,High,18.1,Resolved
+T00314,C0108,2025-04-02,Product Query,High,25.0,Resolved
+T00315,C0300,2026-01-03,Refund,Low,35.6,Resolved
+T00316,C0445,2026-08-03,Product Query,High,24.6,Resolved
+T00317,C0405,2025-03-17,Refund,Medium,33.5,Resolved
+T00318,C0007,2025-03-27,Product Query,Medium,10.2,Open
+T00319,C0128,2025-08-15,Product Query,Medium,45.7,Resolved
+T00320,C0353,2025-12-29,Refund,Low,13.8,Resolved
+T00321,C0483,2026-07-22,Late Delivery,High,27.7,Open
+T00322,C0267,2025-01-24,Payment Failure,Medium,19.8,Resolved
+T00323,C0173,2025-01-28,Wrong Product,High,21.8,Resolved
+T00324,C0416,2025-05-01,Wrong Product,High,20.5,Open
+T00325,C0214,2026-05-05,Refund,Medium,16.9,Resolved
+T00326,C0247,2025-12-11,Late Delivery,Low,47.9,Open
+T00327,C0106,2025-01-31,Payment Failure,Low,9.2,Resolved
+T00328,C0083,2025-08-15,Damaged Product,Low,15.7,Resolved
+T00329,C0292,2025-09-07,Refund,Low,37.3,Resolved
+T00330,C0374,2025-02-19,Damaged Product,High,37.1,Resolved
+T00331,C0421,2026-01-24,Wrong Product,Low,23.3,Escalated
+T00332,C0203,2025-10-15,Wrong Product,High,10.4,Resolved
+T00333,C0041,2026-04-20,Payment Failure,Medium,23.2,Resolved
+T00334,C0205,2025-01-06,Payment Failure,Low,10.7,Resolved
+T00335,C0348,2026-02-16,Damaged Product,Medium,8.2,Resolved
+T00336,C0049,2025-11-20,Wrong Product,Medium,21.3,Resolved
+T00337,C0143,2026-02-03,Payment Failure,Medium,4.9,Resolved
+T00338,C0141,2025-10-09,Payment Failure,Medium,44.1,Escalated
+T00339,C0053,2025-07-10,Wrong Product,Low,12.4,Resolved
+T00340,C0107,2026-08-08,Wrong Product,Medium,16.9,Resolved
+T00341,C0033,2026-05-15,Late Delivery,Medium,11.9,Resolved
+T00342,C0200,2026-08-03,Product Query,Medium,7.5,Escalated
+T00343,C0119,2026-03-10,Payment Failure,High,1.4,Resolved
+T00344,C0288,2025-03-04,Damaged Product,Low,9.1,Resolved
+T00345,C0229,2026-03-29,Refund,Low,45.5,Resolved
+T00346,C0118,2026-05-08,Refund,Medium,40.9,Resolved
+T00347,C0176,2026-03-18,Wrong Product,High,4.4,Resolved
+T00348,C0452,2025-11-03,Product Query,Medium,44.1,Resolved
+T00349,C0185,2025-05-06,Damaged Product,Low,22.6,Resolved
+T00350,C0318,2025-09-22,Late Delivery,Low,7.2,Resolved
+T00351,C0499,2025-01-07,Payment Failure,Low,29.6,Resolved
+T00352,C0338,2026-02-17,Late Delivery,Low,17.9,Resolved
+T00353,C0215,2025-07-25,Damaged Product,Medium,13.2,Resolved
+T00354,C0221,2025-06-28,Late Delivery,Medium,14.0,Resolved
+T00355,C0130,2026-04-13,Wrong Product,Low,28.8,Resolved
+T00356,C0333,2026-05-11,Refund,Low,31.3,Resolved
+T00357,C0272,2026-03-19,Wrong Product,Medium,10.4,Resolved
+T00358,C0246,2025-08-16,Payment Failure,High,25.6,Resolved
+T00359,C0123,2025-05-26,Wrong Product,Medium,23.9,Resolved
+T00360,C0008,2026-07-24,Damaged Product,High,0.6,Resolved
+T00361,C0403,2025-10-23,Damaged Product,Medium,32.6,Escalated
+T00362,C0416,2025-08-29,Payment Failure,Low,10.6,Escalated
+T00363,C0067,2025-10-14,Payment Failure,Low,17.9,Open
+T00364,C0115,2025-01-26,Refund,Medium,23.2,Resolved
+T00365,C0369,2026-03-28,Late Delivery,Medium,32.0,Resolved
+T00366,C0288,2025-04-16,Refund,Medium,41.4,Open
+T00367,C0105,2025-08-28,Wrong Product,Medium,30.6,Resolved
+T00368,C0469,2026-02-22,Late Delivery,Medium,26.4,Resolved
+T00369,C0025,2025-11-28,Payment Failure,Low,21.5,Resolved
+T00370,C0053,2025-02-11,Damaged Product,High,14.5,Resolved
+T00371,C0247,2026-07-10,Wrong Product,Medium,39.8,Open
+T00372,C0337,2025-02-04,Refund,Medium,10.2,Resolved
+T00373,C0281,2025-12-13,Product Query,Medium,30.9,Resolved
+T00374,C0033,2026-01-19,Product Query,Medium,28.9,Resolved
+T00375,C0287,2026-05-28,Payment Failure,Low,20.8,Resolved
+T00376,C0036,2025-10-15,Late Delivery,Medium,40.1,Resolved
+T00377,C0343,2025-02-02,Product Query,Low,22.9,Resolved
+T00378,C0379,2025-04-05,Late Delivery,Medium,21.7,Resolved
+T00379,C0239,2025-07-24,Damaged Product,Low,25.8,Resolved
+T00380,C0492,2025-01-30,Payment Failure,Low,34.7,Resolved
+T00381,C0217,2025-09-23,Payment Failure,Low,2.2,Escalated
+T00382,C0177,2025-01-23,Wrong Product,Medium,58.7,Resolved
+T00383,C0044,2025-02-08,Wrong Product,High,32.1,Resolved
+T00384,C0304,2025-06-22,Late Delivery,Low,23.4,Resolved
+T00385,C0158,2026-02-17,Product Query,Medium,3.1,Resolved
+T00386,C0269,2026-02-18,Product Query,Low,45.2,Resolved
+T00387,C0171,2025-07-28,Refund,Medium,14.7,Resolved
+T00388,C0495,2025-01-22,Late Delivery,Low,7.6,Resolved
+T00389,C0221,2025-01-05,Product Query,Low,31.8,Resolved
+T00390,C0400,2025-08-02,Wrong Product,Low,11.7,Resolved
+T00391,C0230,2025-05-19,Wrong Product,High,0.8,Resolved
+T00392,C0091,2025-11-13,Wrong Product,Medium,38.1,Resolved
+T00393,C0410,2026-07-30,Late Delivery,Low,5.1,Resolved
+T00394,C0459,2025-06-05,Payment Failure,Low,18.9,Resolved
+T00395,C0431,2026-02-28,Refund,Low,23.5,Resolved
+T00396,C0421,2026-05-15,Refund,Low,20.5,Resolved
+T00397,C0131,2025-04-01,Wrong Product,Medium,11.1,Resolved
+T00398,C0410,2025-02-11,Damaged Product,Medium,20.3,Resolved
+T00399,C0226,2025-10-22,Late Delivery,Medium,3.5,Resolved
+T00400,C0225,2025-12-03,Product Query,Low,23.3,Resolved
+T00401,C0143,2025-01-01,Product Query,Medium,14.8,Open
+T00402,C0066,2025-04-19,Payment Failure,Low,28.2,Resolved
+T00403,C0028,2025-05-05,Wrong Product,Low,23.9,Resolved
+T00404,C0125,2025-03-05,Damaged Product,Medium,5.7,Resolved
+T00405,C0212,2025-07-25,Wrong Product,Low,16.3,Resolved
+T00406,C0422,2026-02-19,Damaged Product,Medium,7.7,Resolved
+T00407,C0428,2025-09-01,Refund,High,20.6,Open
+T00408,C0437,2026-08-13,Damaged Product,Low,14.9,Resolved
+T00409,C0080,2025-08-04,Refund,High,30.4,Resolved
+T00410,C0238,2026-06-12,Refund,Low,21.4,Resolved
+T00411,C0132,2026-07-20,Late Delivery,Low,14.9,Resolved
+T00412,C0328,2026-01-15,Damaged Product,Medium,20.9,Resolved
+T00413,C0300,2025-03-20,Payment Failure,Medium,12.6,Resolved
+T00414,C0119,2026-02-19,Payment Failure,Low,25.3,Resolved
+T00415,C0046,2026-03-29,Damaged Product,Medium,21.5,Resolved
+T00416,C0084,2025-05-29,Late Delivery,High,2.2,Escalated
+T00417,C0282,2025-02-07,Payment Failure,Low,73.0,Resolved
+T00418,C0352,2025-06-06,Wrong Product,High,18.5,Resolved
+T00419,C0013,2025-11-29,Payment Failure,Medium,13.6,Resolved
+T00420,C0125,2025-10-15,Late Delivery,High,17.9,Resolved
+T00421,C0325,2025-04-22,Refund,Low,28.4,Resolved
+T00422,C0172,2025-04-01,Refund,Medium,16.7,Resolved
+T00423,C0234,2025-02-18,Refund,Low,15.7,Resolved
+T00424,C0181,2025-06-10,Late Delivery,High,7.5,Resolved
+T00425,C0051,2026-05-31,Refund,Medium,12.4,Resolved
+T00426,C0269,2026-02-06,Refund,Medium,22.1,Open
+T00427,C0169,2025-11-16,Late Delivery,Low,20.0,Resolved
+T00428,C0395,2025-12-30,Wrong Product,High,12.6,Resolved
+T00429,C0421,2026-03-18,Payment Failure,Medium,23.7,Resolved
+T00430,C0316,2026-04-20,Late Delivery,Medium,12.5,Resolved
+T00431,C0288,2025-11-08,Late Delivery,Medium,23.7,Resolved
+T00432,C0429,2026-06-16,Damaged Product,High,6.7,Resolved
+T00433,C0490,2026-08-12,Refund,Low,16.4,Resolved
+T00434,C0274,2025-08-08,Product Query,Low,13.5,Open
+T00435,C0349,2026-05-12,Wrong Product,High,41.0,Resolved
+T00436,C0207,2025-12-09,Product Query,Medium,13.6,Resolved
+T00437,C0148,2025-04-04,Damaged Product,Low,35.2,Resolved
+T00438,C0300,2025-05-13,Wrong Product,Low,22.3,Resolved
+T00439,C0420,2026-05-16,Refund,High,8.4,Open
+T00440,C0453,2025-06-21,Product Query,Low,35.2,Resolved
+T00441,C0488,2025-01-09,Refund,Medium,31.7,Resolved
+T00442,C0037,2025-11-17,Refund,High,25.5,Open
+T00443,C0161,2025-04-08,Payment Failure,Low,25.2,Resolved
+T00444,C0466,2025-06-18,Wrong Product,High,20.6,Resolved
+T00445,C0383,2025-11-07,Wrong Product,Medium,27.4,Open
+T00446,C0275,2025-12-09,Damaged Product,Medium,34.2,Resolved
+T00447,C0435,2026-03-06,Late Delivery,Medium,6.2,Resolved
+T00448,C0288,2026-07-10,Refund,Medium,38.0,Resolved
+T00449,C0106,2026-05-15,Refund,Low,42.0,Resolved
+T00450,C0022,2025-10-12,Product Query,Low,7.8,Resolved
+T00451,C0233,2025-09-17,Damaged Product,High,13.9,Open
+T00452,C0122,2026-05-10,Wrong Product,Low,24.0,Resolved
+T00453,C0129,2025-12-21,Payment Failure,High,32.8,Open
+T00454,C0310,2025-08-02,Wrong Product,Low,19.6,Resolved
+T00455,C0217,2025-07-19,Payment Failure,Medium,25.4,Resolved
+T00456,C0148,2025-08-24,Payment Failure,High,10.6,Resolved
+T00457,C0058,2025-05-16,Wrong Product,Low,22.8,Resolved
+T00458,C0419,2026-02-26,Product Query,High,44.8,Resolved
+T00459,C0237,2025-12-07,Refund,Medium,21.5,Resolved
+T00460,C0070,2025-12-08,Payment Failure,Medium,30.1,Resolved
+T00461,C0454,2026-06-14,Product Query,Medium,11.6,Escalated
+T00462,C0189,2026-01-23,Damaged Product,Low,10.1,Resolved
+T00463,C0242,2025-01-04,Damaged Product,Low,56.1,Resolved
+T00464,C0063,2026-02-03,Payment Failure,Medium,24.1,Resolved
+T00465,C0485,2026-02-26,Refund,Low,31.9,Resolved
+T00466,C0241,2026-02-15,Payment Failure,Low,39.4,Resolved
+T00467,C0445,2025-08-01,Damaged Product,High,6.4,Resolved
+T00468,C0185,2026-07-14,Damaged Product,High,48.9,Open
+T00469,C0259,2026-07-12,Wrong Product,Medium,21.7,Resolved
+T00470,C0229,2026-07-12,Refund,Medium,54.3,Resolved
+T00471,C0223,2025-02-17,Wrong Product,Medium,8.5,Open
+T00472,C0099,2025-07-06,Product Query,Medium,35.6,Escalated
+T00473,C0247,2026-05-17,Product Query,Medium,13.4,Escalated
+T00474,C0045,2026-06-15,Product Query,High,17.5,Resolved
+T00475,C0399,2026-04-20,Late Delivery,Low,37.8,Resolved
+T00476,C0273,2025-02-11,Product Query,Medium,14.2,Resolved
+T00477,C0399,2025-09-18,Payment Failure,High,20.5,Open
+T00478,C0005,2025-02-17,Wrong Product,Medium,66.1,Open
+T00479,C0470,2026-08-09,Product Query,High,20.6,Resolved
+T00480,C0430,2026-03-22,Refund,Low,14.5,Resolved
+T00481,C0011,2025-08-09,Product Query,Low,13.6,Resolved
+T00482,C0448,2025-12-09,Payment Failure,High,4.6,Resolved
+T00483,C0348,2025-08-26,Payment Failure,Medium,16.6,Resolved
+T00484,C0398,2025-06-04,Payment Failure,Medium,24.0,Resolved
+T00485,C0039,2025-02-25,Payment Failure,Low,16.5,Open
+T00486,C0451,2026-01-22,Payment Failure,Medium,25.1,Resolved
+T00487,C0439,2025-11-11,Refund,Medium,81.1,Resolved
+T00488,C0500,2025-02-07,Late Delivery,Low,36.8,Resolved
+T00489,C0042,2025-12-07,Damaged Product,Medium,20.3,Resolved
+T00490,C0203,2025-08-19,Late Delivery,Medium,32.1,Resolved
+T00491,C0094,2026-03-28,Damaged Product,Low,32.3,Open
+T00492,C0486,2025-12-08,Wrong Product,Medium,3.1,Resolved
+T00493,C0005,2026-03-29,Payment Failure,Medium,47.5,Resolved
+T00494,C0052,2025-09-14,Wrong Product,Low,20.4,Resolved
+T00495,C0150,2026-03-10,Wrong Product,Medium,24.2,Resolved
+T00496,C0205,2025-07-28,Damaged Product,Low,2.7,Resolved
+T00497,C0300,2025-07-20,Refund,Low,25.5,Resolved
+T00498,C0499,2025-05-17,Payment Failure,Medium,22.4,Resolved
+T00499,C0371,2026-07-19,Product Query,Medium,11.0,Resolved
+T00500,C0469,2026-01-29,Wrong Product,High,15.3,Resolved
+T00501,C0187,2025-02-05,Late Delivery,Low,12.2,Resolved
+T00502,C0485,2025-08-03,Payment Failure,Medium,13.5,Resolved
+T00503,C0153,2025-01-27,Refund,Low,21.1,Resolved
+T00504,C0383,2025-01-18,Payment Failure,Medium,28.9,Resolved
+T00505,C0116,2025-05-17,Product Query,Medium,40.8,Resolved
+T00506,C0149,2026-08-02,Product Query,Medium,24.7,Resolved
+T00507,C0220,2025-01-30,Wrong Product,Low,18.9,Open
+T00508,C0192,2025-03-14,Late Delivery,High,33.0,Resolved
+T00509,C0233,2025-05-03,Wrong Product,Medium,16.1,Resolved
+T00510,C0324,2025-08-16,Refund,High,16.5,Open
+T00511,C0221,2025-12-04,Damaged Product,Low,16.9,Resolved
+T00512,C0047,2025-09-30,Product Query,Medium,7.9,Resolved
+T00513,C0127,2026-03-13,Late Delivery,Medium,25.8,Resolved
+T00514,C0291,2025-02-08,Product Query,Medium,21.7,Resolved
+T00515,C0215,2026-03-02,Refund,Low,15.1,Resolved
+T00516,C0007,2025-11-11,Refund,High,11.9,Resolved
+T00517,C0184,2026-05-24,Product Query,Low,17.4,Resolved
+T00518,C0116,2025-06-06,Wrong Product,Low,17.6,Resolved
+T00519,C0052,2025-09-14,Product Query,Medium,36.6,Resolved
+T00520,C0366,2026-04-01,Wrong Product,Medium,13.7,Resolved
+T00521,C0046,2025-02-16,Product Query,Medium,11.0,Resolved
+T00522,C0393,2025-11-28,Wrong Product,Medium,51.1,Resolved
+T00523,C0442,2025-01-10,Damaged Product,Medium,17.3,Resolved
+T00524,C0023,2025-05-24,Payment Failure,Medium,19.9,Resolved
+T00525,C0131,2026-03-07,Payment Failure,Medium,41.0,Resolved
+T00526,C0127,2025-06-01,Wrong Product,High,26.9,Resolved
+T00527,C0445,2026-05-02,Wrong Product,High,20.6,Resolved
+T00528,C0265,2025-05-16,Damaged Product,Medium,45.5,Resolved
+T00529,C0309,2026-08-10,Payment Failure,Low,14.7,Resolved
+T00530,C0196,2025-01-26,Damaged Product,High,25.6,Resolved
+T00531,C0433,2025-01-07,Refund,Low,14.4,Open
+T00532,C0473,2025-01-15,Product Query,Low,41.2,Open
+T00533,C0454,2026-03-08,Payment Failure,Low,21.7,Escalated
+T00534,C0048,2026-02-04,Wrong Product,Low,1.2,Open
+T00535,C0379,2025-07-26,Late Delivery,High,13.3,Resolved
+T00536,C0082,2025-08-04,Refund,Medium,39.2,Resolved
+T00537,C0109,2026-05-17,Product Query,High,3.9,Resolved
+T00538,C0263,2026-04-04,Late Delivery,Low,13.9,Resolved
+T00539,C0355,2025-09-16,Damaged Product,Medium,3.8,Resolved
+T00540,C0031,2025-11-25,Product Query,High,4.2,Resolved
+T00541,C0358,2026-03-30,Damaged Product,High,8.8,Resolved
+T00542,C0056,2026-01-10,Damaged Product,Medium,24.0,Resolved
+T00543,C0480,2026-04-09,Wrong Product,Low,7.8,Resolved
+T00544,C0355,2025-03-16,Damaged Product,Medium,61.0,Resolved
+T00545,C0189,2025-08-30,Late Delivery,Low,26.6,Resolved
+T00546,C0476,2025-01-17,Refund,Medium,20.3,Open
+T00547,C0492,2025-09-16,Wrong Product,Medium,6.4,Open
+T00548,C0005,2025-05-03,Refund,Medium,4.6,Resolved
+T00549,C0286,2025-11-07,Damaged Product,Medium,16.5,Resolved
+T00550,C0278,2025-04-21,Payment Failure,Medium,55.7,Open
+T00551,C0145,2025-09-13,Product Query,Low,7.8,Resolved
+T00552,C0394,2025-08-22,Wrong Product,Medium,5.9,Open
+T00553,C0455,2026-05-12,Damaged Product,Medium,36.4,Resolved
+T00554,C0196,2025-02-09,Wrong Product,Low,35.7,Resolved
+T00555,C0426,2025-05-02,Payment Failure,Low,22.9,Resolved
+T00556,C0027,2026-03-26,Late Delivery,Low,12.6,Resolved
+T00557,C0127,2026-06-03,Late Delivery,Medium,27.3,Resolved
+T00558,C0135,2025-04-02,Product Query,High,5.8,Resolved
+T00559,C0023,2025-12-27,Late Delivery,Low,20.5,Resolved
+T00560,C0331,2025-05-03,Payment Failure,Medium,3.7,Resolved
+T00561,C0117,2025-12-03,Refund,Medium,19.6,Resolved
+T00562,C0392,2026-05-28,Payment Failure,Low,37.2,Resolved
+T00563,C0008,2026-03-04,Payment Failure,High,56.7,Resolved
+T00564,C0101,2026-03-09,Damaged Product,Medium,13.1,Resolved
+T00565,C0261,2025-01-07,Late Delivery,High,23.9,Resolved
+T00566,C0199,2025-04-30,Wrong Product,Low,2.6,Resolved
+T00567,C0086,2026-01-22,Product Query,Low,11.5,Resolved
+T00568,C0228,2025-12-16,Refund,Low,27.7,Resolved
+T00569,C0386,2025-04-08,Wrong Product,Low,34.5,Resolved
+T00570,C0472,2025-02-12,Damaged Product,High,27.4,Escalated
+T00571,C0179,2025-07-02,Damaged Product,Low,11.9,Open
+T00572,C0450,2026-07-19,Refund,Medium,8.7,Resolved
+T00573,C0240,2025-08-23,Wrong Product,Low,9.8,Resolved
+T00574,C0012,2026-03-22,Refund,High,19.6,Resolved
+T00575,C0303,2025-07-19,Refund,Medium,5.4,Resolved
+T00576,C0234,2026-05-28,Late Delivery,Medium,12.9,Resolved
+T00577,C0183,2026-06-10,Wrong Product,Low,27.0,Open
+T00578,C0282,2025-08-01,Late Delivery,Medium,22.5,Resolved
+T00579,C0358,2026-01-13,Late Delivery,Low,7.4,Resolved
+T00580,C0376,2026-06-30,Product Query,Low,34.9,Resolved
+T00581,C0429,2026-05-01,Late Delivery,Medium,16.4,Resolved
+T00582,C0190,2025-12-27,Payment Failure,High,40.9,Resolved
+T00583,C0326,2025-06-17,Damaged Product,High,11.6,Resolved
+T00584,C0215,2026-02-08,Damaged Product,Medium,12.1,Resolved
+T00585,C0258,2025-05-17,Payment Failure,Medium,34.2,Resolved
+T00586,C0026,2025-08-21,Refund,High,5.9,Resolved
+T00587,C0270,2025-04-25,Wrong Product,Medium,27.4,Resolved
+T00588,C0082,2025-09-09,Wrong Product,Medium,3.7,Resolved
+T00589,C0358,2026-05-08,Wrong Product,High,10.6,Resolved
+T00590,C0185,2025-10-16,Late Delivery,Low,13.3,Resolved
+T00591,C0288,2025-02-18,Wrong Product,Low,26.4,Resolved
+T00592,C0062,2026-03-28,Wrong Product,Medium,1.6,Open
+T00593,C0371,2026-05-31,Wrong Product,Low,29.1,Resolved
+T00594,C0462,2025-09-29,Damaged Product,Medium,12.5,Resolved
+T00595,C0030,2026-03-07,Payment Failure,Medium,43.7,Resolved
+T00596,C0397,2025-01-26,Product Query,Medium,11.1,Resolved
+T00597,C0424,2025-03-11,Refund,High,11.0,Resolved
+T00598,C0031,2025-10-20,Payment Failure,Low,5.1,Resolved
+T00599,C0293,2026-02-10,Wrong Product,Medium,20.0,Resolved
+T00600,C0173,2025-08-22,Refund,Low,53.1,Resolved
+T00601,C0102,2025-08-19,Refund,Medium,15.2,Resolved
+T00602,C0128,2025-09-20,Payment Failure,Medium,20.5,Resolved
+T00603,C0086,2026-08-09,Payment Failure,Medium,3.9,Resolved
+T00604,C0315,2025-05-01,Payment Failure,Low,28.7,Resolved
+T00605,C0028,2026-04-08,Product Query,Medium,14.1,Resolved
+T00606,C0122,2026-06-02,Payment Failure,Medium,12.5,Resolved
+T00607,C0251,2025-01-24,Product Query,Low,9.2,Resolved
+T00608,C0061,2026-01-12,Late Delivery,Medium,10.9,Resolved
+T00609,C0403,2026-05-15,Damaged Product,Medium,27.2,Resolved
+T00610,C0171,2026-03-13,Product Query,High,32.4,Resolved
+T00611,C0443,2026-05-14,Damaged Product,High,3.3,Resolved
+T00612,C0272,2025-06-23,Wrong Product,Medium,6.5,Resolved
+T00613,C0325,2026-05-24,Late Delivery,High,19.1,Open
+T00614,C0300,2025-11-06,Refund,Medium,6.7,Resolved
+T00615,C0113,2025-03-11,Payment Failure,High,8.1,Resolved
+T00616,C0194,2025-07-24,Wrong Product,Low,9.6,Resolved
+T00617,C0394,2025-12-07,Refund,Medium,23.7,Resolved
+T00618,C0431,2025-02-01,Damaged Product,Medium,41.2,Resolved
+T00619,C0019,2025-02-12,Refund,Medium,15.7,Resolved
+T00620,C0340,2025-04-28,Payment Failure,Low,19.6,Open
+T00621,C0093,2025-01-15,Payment Failure,Low,27.0,Resolved
+T00622,C0217,2025-11-18,Product Query,Low,9.7,Resolved
+T00623,C0465,2025-12-03,Product Query,Low,25.3,Resolved
+T00624,C0179,2026-06-16,Damaged Product,Low,56.8,Resolved
+T00625,C0499,2026-01-16,Payment Failure,Medium,8.3,Resolved
+T00626,C0397,2026-05-26,Late Delivery,High,24.2,Resolved
+T00627,C0191,2025-04-30,Wrong Product,Medium,19.7,Open
+T00628,C0493,2025-01-26,Damaged Product,High,7.9,Resolved
+T00629,C0400,2026-06-18,Damaged Product,High,33.6,Resolved
+T00630,C0437,2025-03-05,Refund,Medium,11.5,Resolved
+T00631,C0163,2026-04-05,Damaged Product,Low,7.1,Escalated
+T00632,C0100,2025-11-10,Wrong Product,Low,12.2,Resolved
+T00633,C0187,2026-08-13,Late Delivery,High,25.8,Escalated
+T00634,C0295,2025-08-04,Refund,Low,12.0,Resolved
+T00635,C0067,2026-04-01,Wrong Product,Medium,2.1,Resolved
+T00636,C0073,2026-06-24,Product Query,Medium,55.2,Resolved
+T00637,C0232,2026-08-02,Damaged Product,High,35.9,Resolved
+T00638,C0189,2026-04-18,Payment Failure,Medium,21.3,Resolved
+T00639,C0050,2025-12-25,Product Query,High,13.2,Resolved
+T00640,C0309,2025-05-06,Payment Failure,Low,14.1,Resolved
+T00641,C0302,2025-03-28,Wrong Product,Low,8.4,Resolved
+T00642,C0308,2025-12-09,Late Delivery,Medium,19.6,Resolved
+T00643,C0124,2026-01-30,Payment Failure,High,69.0,Open
+T00644,C0157,2026-04-29,Wrong Product,Medium,16.9,Resolved
+T00645,C0261,2026-04-01,Refund,High,30.0,Resolved
+T00646,C0195,2026-04-21,Damaged Product,Medium,10.4,Resolved
+T00647,C0330,2025-07-29,Late Delivery,Medium,21.1,Resolved
+T00648,C0351,2026-06-09,Late Delivery,Medium,11.6,Resolved
+T00649,C0331,2026-07-30,Refund,Medium,18.9,Resolved
+T00650,C0256,2025-11-03,Late Delivery,Low,42.7,Escalated
+T00651,C0465,2025-03-17,Wrong Product,High,23.1,Resolved
+T00652,C0424,2025-01-22,Late Delivery,High,41.6,Resolved
+T00653,C0489,2025-03-01,Late Delivery,Medium,42.6,Resolved
+T00654,C0200,2026-01-21,Late Delivery,Low,14.7,Resolved
+T00655,C0372,2025-02-25,Wrong Product,Low,49.2,Escalated
+T00656,C0386,2025-06-17,Product Query,High,24.2,Resolved
+T00657,C0068,2026-02-16,Damaged Product,Low,23.0,Resolved
+T00658,C0446,2025-07-10,Payment Failure,High,11.4,Resolved
+T00659,C0080,2026-04-27,Product Query,Medium,36.9,Resolved
+T00660,C0233,2026-07-21,Late Delivery,Medium,25.4,Resolved
+T00661,C0186,2026-02-20,Refund,High,10.9,Resolved
+T00662,C0105,2025-12-06,Refund,Low,27.2,Resolved
+T00663,C0469,2025-09-16,Wrong Product,Medium,7.1,Open
+T00664,C0325,2025-12-16,Damaged Product,High,6.8,Resolved
+T00665,C0442,2026-03-13,Late Delivery,Medium,18.4,Resolved
+T00666,C0419,2025-08-10,Wrong Product,Medium,13.8,Resolved
+T00667,C0142,2026-02-17,Payment Failure,Medium,14.6,Resolved
+T00668,C0399,2025-12-16,Damaged Product,Low,41.3,Resolved
+T00669,C0390,2026-04-27,Damaged Product,Low,20.9,Resolved
+T00670,C0272,2025-02-28,Wrong Product,Medium,13.8,Resolved
+T00671,C0343,2025-06-01,Product Query,Medium,7.5,Resolved
+T00672,C0124,2026-06-24,Refund,Medium,24.1,Resolved
+T00673,C0223,2025-08-13,Product Query,Medium,27.9,Resolved
+T00674,C0490,2025-11-14,Damaged Product,Low,29.2,Escalated
+T00675,C0174,2026-07-17,Refund,Medium,15.4,Resolved
+T00676,C0191,2025-10-06,Damaged Product,Low,4.2,Resolved
+T00677,C0140,2026-07-12,Damaged Product,Low,42.3,Resolved
+T00678,C0297,2026-04-19,Damaged Product,Medium,7.2,Resolved
+T00679,C0119,2025-01-24,Payment Failure,High,15.6,Resolved
+T00680,C0275,2026-06-03,Refund,Low,29.5,Resolved
+T00681,C0076,2026-01-03,Payment Failure,Medium,25.8,Resolved
+T00682,C0109,2025-12-01,Refund,Medium,9.9,Resolved
+T00683,C0119,2026-03-09,Payment Failure,Low,62.2,Resolved
+T00684,C0461,2025-01-03,Payment Failure,Medium,15.3,Resolved
+T00685,C0369,2025-09-15,Payment Failure,High,21.4,Resolved
+T00686,C0258,2025-09-20,Wrong Product,Medium,22.3,Resolved
+T00687,C0020,2025-05-01,Payment Failure,Low,26.1,Resolved
+T00688,C0119,2025-01-21,Product Query,Medium,26.6,Resolved
+T00689,C0351,2025-05-20,Product Query,Medium,12.9,Resolved
+T00690,C0137,2026-04-22,Damaged Product,Low,0.8,Open
+T00691,C0277,2025-10-16,Late Delivery,Low,23.5,Resolved
+T00692,C0255,2025-07-25,Payment Failure,Low,6.1,Resolved
+T00693,C0264,2025-02-12,Late Delivery,Low,19.4,Resolved
+T00694,C0167,2025-04-28,Late Delivery,Low,27.5,Resolved
+T00695,C0165,2025-01-05,Damaged Product,Medium,21.2,Resolved
+T00696,C0029,2025-07-26,Late Delivery,Medium,13.7,Resolved
+T00697,C0467,2025-12-11,Late Delivery,High,16.2,Resolved
+T00698,C0035,2025-05-22,Product Query,Medium,57.7,Resolved
+T00699,C0237,2026-01-07,Late Delivery,High,18.6,Resolved
+T00700,C0294,2025-08-20,Refund,Medium,6.1,Resolved
+T00701,C0090,2025-06-13,Payment Failure,Low,8.4,Resolved
+T00702,C0203,2026-07-01,Payment Failure,Medium,34.9,Resolved
+T00703,C0228,2025-12-30,Late Delivery,High,5.2,Resolved
+T00704,C0419,2025-12-01,Damaged Product,Low,11.3,Resolved
+T00705,C0068,2025-01-11,Refund,Low,25.3,Resolved
+T00706,C0131,2026-02-12,Damaged Product,Low,18.1,Resolved
+T00707,C0365,2025-03-16,Damaged Product,Medium,18.2,Escalated
+T00708,C0111,2025-10-27,Late Delivery,Low,40.4,Resolved
+T00709,C0012,2026-01-16,Wrong Product,Low,2.9,Resolved
+T00710,C0288,2026-08-09,Late Delivery,Low,25.9,Resolved
+T00711,C0175,2025-01-28,Product Query,Medium,50.6,Resolved
+T00712,C0319,2026-04-08,Wrong Product,Medium,14.9,Resolved
+T00713,C0154,2026-01-31,Refund,Medium,14.2,Resolved
+T00714,C0043,2026-01-11,Wrong Product,Medium,23.1,Resolved
+T00715,C0363,2026-02-25,Late Delivery,Medium,17.9,Resolved
+T00716,C0205,2025-12-30,Late Delivery,Low,28.9,Resolved
+T00717,C0172,2025-08-04,Damaged Product,Medium,16.3,Open
+T00718,C0294,2025-04-11,Late Delivery,Low,20.0,Resolved
+T00719,C0285,2025-04-03,Product Query,Medium,5.5,Resolved
+T00720,C0311,2026-07-29,Late Delivery,Medium,19.5,Resolved
+T00721,C0052,2025-09-23,Payment Failure,Low,17.3,Resolved
+T00722,C0115,2025-07-25,Payment Failure,Low,49.8,Resolved
+T00723,C0019,2025-03-21,Damaged Product,Low,31.5,Resolved
+T00724,C0035,2025-02-06,Wrong Product,Low,22.3,Resolved
+T00725,C0048,2025-01-11,Wrong Product,Low,25.3,Resolved
+T00726,C0233,2025-03-31,Payment Failure,High,18.2,Resolved
+T00727,C0219,2025-01-19,Product Query,Medium,17.4,Resolved
+T00728,C0110,2026-07-18,Refund,Medium,28.9,Resolved
+T00729,C0254,2026-01-09,Product Query,Medium,10.9,Resolved
+T00730,C0188,2025-04-04,Payment Failure,Medium,12.3,Resolved
+T00731,C0031,2025-02-01,Product Query,High,4.1,Open
+T00732,C0259,2025-05-20,Refund,High,15.0,Resolved
+T00733,C0163,2026-07-24,Wrong Product,Medium,18.1,Open
+T00734,C0344,2025-01-21,Payment Failure,High,23.7,Resolved
+T00735,C0308,2025-05-29,Late Delivery,Low,6.2,Resolved
+T00736,C0071,2025-08-09,Refund,Medium,19.2,Resolved
+T00737,C0307,2025-08-07,Refund,High,28.6,Resolved
+T00738,C0056,2026-06-25,Refund,Medium,4.3,Resolved
+T00739,C0099,2026-07-13,Wrong Product,High,8.7,Resolved
+T00740,C0021,2025-02-27,Product Query,Low,41.6,Resolved
+T00741,C0385,2026-03-01,Damaged Product,Medium,12.5,Resolved
+T00742,C0108,2025-10-02,Late Delivery,High,69.7,Resolved
+T00743,C0053,2025-05-20,Payment Failure,Medium,47.6,Escalated
+T00744,C0006,2025-01-23,Product Query,Medium,11.9,Resolved
+T00745,C0231,2026-01-13,Refund,Low,35.0,Resolved
+T00746,C0482,2026-01-08,Wrong Product,Medium,36.3,Open
+T00747,C0082,2025-03-04,Refund,High,14.6,Resolved
+T00748,C0446,2026-07-18,Product Query,Medium,23.1,Resolved
+T00749,C0217,2025-12-08,Payment Failure,Low,12.8,Resolved
+T00750,C0335,2025-06-16,Late Delivery,Low,7.9,Open
+T00751,C0047,2025-05-31,Refund,High,42.8,Resolved
+T00752,C0352,2026-06-07,Wrong Product,Medium,16.8,Resolved
+T00753,C0362,2026-08-07,Wrong Product,Low,23.9,Resolved
+T00754,C0241,2026-05-16,Damaged Product,Low,40.9,Open
+T00755,C0178,2026-07-14,Wrong Product,High,37.1,Open
+T00756,C0082,2025-12-14,Damaged Product,High,13.9,Resolved
+T00757,C0287,2025-09-29,Late Delivery,Low,3.3,Open
+T00758,C0192,2026-03-06,Payment Failure,Low,11.0,Resolved
+T00759,C0413,2025-08-21,Damaged Product,Medium,2.7,Resolved
+T00760,C0143,2026-07-14,Refund,Medium,34.2,Open
+T00761,C0314,2025-07-27,Product Query,High,18.1,Resolved
+T00762,C0279,2026-03-29,Refund,Medium,7.0,Resolved
+T00763,C0422,2026-05-16,Payment Failure,Medium,17.5,Resolved
+T00764,C0041,2026-08-12,Wrong Product,Medium,48.8,Resolved
+T00765,C0459,2025-08-07,Product Query,High,49.7,Open
+T00766,C0271,2025-03-22,Refund,Medium,5.8,Open
+T00767,C0087,2026-07-03,Product Query,Low,10.8,Resolved
+T00768,C0003,2026-06-25,Damaged Product,Low,50.7,Open
+T00769,C0211,2025-09-08,Payment Failure,High,13.2,Resolved
+T00770,C0001,2026-02-19,Refund,Medium,13.5,Resolved
+T00771,C0472,2025-03-27,Wrong Product,Medium,4.0,Resolved
+T00772,C0497,2025-08-05,Product Query,Medium,16.5,Resolved
+T00773,C0075,2025-07-15,Wrong Product,Low,36.0,Resolved
+T00774,C0478,2025-10-24,Product Query,Low,4.0,Resolved
+T00775,C0498,2025-02-13,Refund,Low,8.1,Resolved
+T00776,C0395,2026-01-28,Payment Failure,Medium,40.0,Resolved
+T00777,C0444,2026-03-19,Late Delivery,Medium,28.6,Resolved
+T00778,C0231,2025-03-31,Refund,High,12.3,Resolved
+T00779,C0449,2025-06-04,Wrong Product,High,79.2,Resolved
+T00780,C0076,2026-04-23,Late Delivery,Medium,28.1,Resolved
+T00781,C0260,2025-02-28,Payment Failure,Medium,50.6,Resolved
+T00782,C0025,2025-04-20,Wrong Product,Low,18.6,Resolved
+T00783,C0200,2026-04-24,Payment Failure,Low,11.5,Resolved
+T00784,C0463,2025-02-18,Product Query,Low,15.4,Open
+T00785,C0427,2026-01-12,Refund,Medium,5.4,Resolved
+T00786,C0094,2025-02-01,Payment Failure,Low,33.4,Resolved
+T00787,C0424,2026-05-01,Wrong Product,Low,14.8,Open
+T00788,C0352,2026-06-15,Refund,Medium,21.9,Resolved
+T00789,C0108,2025-01-03,Wrong Product,Medium,12.9,Open
+T00790,C0355,2026-01-13,Wrong Product,Medium,21.5,Resolved
+T00791,C0469,2026-07-26,Late Delivery,Medium,3.6,Resolved
+T00792,C0095,2025-08-30,Damaged Product,Low,23.7,Resolved
+T00793,C0356,2026-06-25,Payment Failure,Low,8.2,Resolved
+T00794,C0091,2026-08-10,Payment Failure,Low,14.3,Open
+T00795,C0044,2026-08-05,Late Delivery,Low,12.8,Escalated
+T00796,C0456,2025-12-23,Product Query,Medium,22.9,Escalated
+T00797,C0443,2025-07-16,Payment Failure,Medium,5.2,Open
+T00798,C0384,2026-02-23,Late Delivery,Low,12.7,Open
+T00799,C0023,2025-09-30,Payment Failure,Medium,40.3,Resolved
+T00800,C0190,2026-05-17,Payment Failure,High,7.0,Open
+T00801,C0023,2025-02-04,Wrong Product,Low,4.7,Resolved
+T00802,C0234,2026-04-06,Late Delivery,Low,10.9,Resolved
+T00803,C0186,2025-09-10,Product Query,Medium,9.5,Resolved
+T00804,C0311,2026-05-27,Payment Failure,Medium,56.8,Open
+T00805,C0417,2025-02-17,Product Query,Medium,30.3,Resolved
+T00806,C0333,2025-07-04,Damaged Product,Medium,4.4,Open
+T00807,C0063,2026-05-06,Late Delivery,Low,15.4,Resolved
+T00808,C0103,2025-09-30,Late Delivery,Medium,21.6,Resolved
+T00809,C0500,2026-06-11,Late Delivery,Low,14.8,Escalated
+T00810,C0316,2025-05-08,Wrong Product,Medium,2.1,Resolved
+T00811,C0483,2025-07-29,Late Delivery,High,25.1,Open
+T00812,C0189,2025-05-22,Wrong Product,Low,6.7,Resolved
+T00813,C0336,2025-06-22,Damaged Product,Low,3.1,Resolved
+T00814,C0460,2026-03-23,Refund,Low,3.6,Open
+T00815,C0189,2025-04-29,Wrong Product,Low,13.8,Resolved
+T00816,C0351,2025-01-11,Payment Failure,Low,19.7,Resolved
+T00817,C0069,2025-10-31,Late Delivery,Medium,3.5,Resolved
+T00818,C0114,2025-06-03,Refund,High,13.6,Resolved
+T00819,C0104,2025-11-19,Wrong Product,Medium,8.7,Resolved
+T00820,C0108,2026-06-21,Product Query,Low,31.7,Resolved
+T00821,C0345,2026-03-21,Product Query,Low,11.3,Open
+T00822,C0021,2025-12-08,Payment Failure,Low,33.2,Resolved
+T00823,C0387,2025-08-09,Refund,Low,23.8,Resolved
+T00824,C0432,2025-04-20,Damaged Product,Medium,7.8,Open
+T00825,C0266,2026-02-14,Wrong Product,Low,16.4,Open
+T00826,C0343,2026-02-22,Product Query,High,13.4,Resolved
+T00827,C0209,2026-05-20,Product Query,Medium,34.5,Resolved
+T00828,C0170,2025-02-09,Wrong Product,Medium,25.7,Resolved
+T00829,C0483,2026-05-24,Product Query,Medium,18.3,Resolved
+T00830,C0473,2026-04-04,Damaged Product,Medium,16.5,Resolved
+T00831,C0194,2025-09-20,Product Query,Medium,15.1,Resolved
+T00832,C0347,2025-04-28,Wrong Product,Low,14.3,Resolved
+T00833,C0430,2026-03-26,Late Delivery,Low,23.1,Resolved
+T00834,C0393,2026-02-18,Product Query,High,75.2,Resolved
+T00835,C0123,2026-06-10,Wrong Product,Low,22.2,Resolved
+T00836,C0177,2026-04-06,Late Delivery,Medium,18.5,Resolved
+T00837,C0004,2025-04-28,Product Query,Medium,24.0,Resolved
+T00838,C0188,2025-08-05,Product Query,Low,3.1,Resolved
+T00839,C0346,2025-03-18,Wrong Product,Low,14.5,Resolved
+T00840,C0352,2026-02-25,Payment Failure,Low,37.0,Resolved
+T00841,C0029,2025-06-21,Payment Failure,Medium,10.8,Resolved
+T00842,C0086,2026-01-25,Refund,Medium,32.3,Resolved
+T00843,C0047,2025-01-26,Payment Failure,Medium,18.1,Resolved
+T00844,C0077,2025-05-08,Damaged Product,Medium,18.4,Resolved
+T00845,C0343,2026-01-09,Refund,Low,7.0,Open
+T00846,C0191,2025-01-24,Payment Failure,Medium,19.5,Resolved
+T00847,C0031,2026-04-15,Late Delivery,Medium,16.7,Resolved
+T00848,C0307,2026-02-27,Wrong Product,Medium,11.3,Resolved
+T00849,C0169,2025-06-26,Payment Failure,Medium,46.8,Resolved
+T00850,C0036,2026-06-22,Late Delivery,Medium,53.9,Resolved
+T00851,C0245,2025-09-23,Refund,Low,8.7,Resolved
+T00852,C0424,2026-07-24,Wrong Product,Medium,10.8,Resolved
+T00853,C0351,2025-09-27,Payment Failure,Low,38.1,Resolved
+T00854,C0188,2025-11-25,Refund,Medium,11.1,Resolved
+T00855,C0015,2026-03-31,Payment Failure,Low,22.8,Resolved
+T00856,C0334,2025-10-22,Refund,High,13.7,Resolved
+T00857,C0483,2025-05-02,Payment Failure,Medium,16.1,Resolved
+T00858,C0216,2025-06-08,Late Delivery,Medium,11.0,Resolved
+T00859,C0158,2025-06-27,Damaged Product,Medium,28.2,Resolved
+T00860,C0414,2025-11-24,Late Delivery,High,68.0,Open
+T00861,C0155,2025-11-03,Wrong Product,Medium,18.3,Resolved
+T00862,C0241,2025-03-30,Payment Failure,Low,22.5,Resolved
+T00863,C0296,2025-02-07,Damaged Product,High,19.8,Resolved
+T00864,C0462,2025-12-12,Damaged Product,Medium,3.5,Resolved
+T00865,C0045,2025-09-09,Wrong Product,Medium,12.7,Resolved
+T00866,C0495,2025-05-29,Wrong Product,High,8.5,Resolved
+T00867,C0459,2025-01-16,Damaged Product,Low,28.6,Resolved
+T00868,C0175,2026-01-02,Wrong Product,Low,10.3,Resolved
+T00869,C0492,2025-04-28,Wrong Product,Medium,36.4,Resolved
+T00870,C0346,2025-11-13,Payment Failure,Medium,7.4,Resolved
+T00871,C0056,2025-10-15,Late Delivery,Medium,31.5,Resolved
+T00872,C0054,2025-12-17,Product Query,Medium,7.2,Resolved
+T00873,C0341,2025-10-24,Refund,Medium,22.0,Resolved
+T00874,C0265,2025-07-13,Damaged Product,Medium,9.9,Resolved
+T00875,C0374,2026-01-27,Refund,High,10.4,Escalated
+T00876,C0239,2026-03-19,Damaged Product,Low,62.1,Open
+T00877,C0321,2025-10-08,Damaged Product,Medium,8.9,Escalated
+T00878,C0108,2025-10-28,Late Delivery,Medium,18.4,Resolved
+T00879,C0198,2026-03-02,Damaged Product,Medium,34.1,Resolved
+T00880,C0385,2025-09-07,Damaged Product,Low,3.9,Resolved
+T00881,C0214,2026-05-30,Late Delivery,Low,24.7,Resolved
+T00882,C0499,2026-02-10,Wrong Product,Medium,53.4,Resolved
+T00883,C0246,2025-09-01,Product Query,Low,7.9,Resolved
+T00884,C0397,2026-01-02,Refund,Medium,14.4,Resolved
+T00885,C0038,2025-04-30,Damaged Product,Low,12.7,Resolved
+T00886,C0497,2026-03-16,Late Delivery,Medium,35.4,Resolved
+T00887,C0173,2026-05-19,Damaged Product,Medium,15.9,Resolved
+T00888,C0105,2026-08-05,Late Delivery,Medium,34.2,Resolved
+T00889,C0040,2026-03-09,Refund,Medium,49.7,Resolved
+T00890,C0479,2025-07-02,Payment Failure,Medium,52.9,Resolved
+T00891,C0399,2026-04-06,Wrong Product,Medium,56.2,Resolved
+T00892,C0434,2025-04-28,Payment Failure,Low,10.3,Resolved
+T00893,C0130,2025-01-31,Late Delivery,Low,47.0,Resolved
+T00894,C0181,2025-05-29,Damaged Product,High,29.3,Resolved
+T00895,C0479,2026-06-12,Wrong Product,Medium,26.9,Resolved
+T00896,C0410,2025-09-30,Refund,Medium,20.8,Resolved
+T00897,C0194,2026-01-20,Product Query,Low,20.2,Escalated
+T00898,C0331,2025-04-12,Wrong Product,High,17.0,Resolved
+T00899,C0289,2025-03-13,Damaged Product,Medium,15.5,Resolved
+T00900,C0466,2026-02-12,Payment Failure,High,16.0,Resolved
