@@ -34,6 +34,7 @@ The dataset contains around 4,000 orders and 500 customers.
 ## What I Did
 
 ### Data Analysis
+
 - Cleaned and checked the data using Python
 - Performed exploratory data analysis
 - Analyzed sales and customer data using SQL
@@ -41,9 +42,11 @@ The dataset contains around 4,000 orders and 500 customers.
 - Identified top customers, products and cities
 
 ### Power BI Dashboard
+
 Created a 3-page interactive dashboard covering:
 
 **Page 1 - Executive Overview**
+
 - Total Sales
 - Total Orders
 - Total Customers
@@ -54,6 +57,7 @@ Created a 3-page interactive dashboard covering:
 - Orders by Status
 
 **Page 2 - Sales & Product Performance**
+
 - Sales and order performance
 - Product performance
 - Category analysis
@@ -61,6 +65,7 @@ Created a 3-page interactive dashboard covering:
 - Customer segment analysis
 
 **Page 3 - Customer, Payment & Support Insights**
+
 - Failed Payments
 - Support Tickets
 - Average Resolution Hours
@@ -76,6 +81,20 @@ Created a 3-page interactive dashboard covering:
 - Payment analysis was used to identify failed transactions and payment methods with higher failures.
 - Support ticket analysis was used to compare issue types and resolution time.
 - Sales trends were analyzed month by month to understand business performance.
+
+## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](screenshot/executive_overview.png)
+
+### Sales & Product Performance
+
+![Sales & Product Performance](screenshot/sales_product_performance.png)
+
+### Customer & Operations Insights
+
+![Customer & Operations Insights](screenshot/customer_operations_insights.png)
 
 ## Project Structure
 
@@ -101,6 +120,9 @@ E-Commerce-Sales-Customer-Analytics
 │   └── Ecommerce_Dashboard.pbix
 │
 ├── screenshot
+│   ├── executive_overview.png
+│   ├── sales_product_performance.png
+│   └── customer_operations_insights.png
 │
 ├── sql
 │   └── ecommerce_analysis.sql
